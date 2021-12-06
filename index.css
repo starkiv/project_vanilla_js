@@ -1,0 +1,44 @@
+header {
+  padding: 1rem;
+  width: 100%;
+  background: rgb(25, 124, 124);
+  font-family: "Bebas Neue", cursive;
+  text-align: center;
+}
+
+#mainTitle,
+#subTitle {
+  font-family: "Bebas Neue", cursive;
+  margin: 2rem auto;
+  text-align: center;
+  width: 100%;
+}
+#result,
+#calculator {
+  font-family: "Bebas Neue", cursive;
+  margin: 2rem auto;
+  width: 40rem;
+  text-align: center;
+  border: 1px solid rgb(25, 124, 124);
+}
+
+body {
+  background-color: rgb(184, 214, 231);
+  margin: 0;
+}
+
+#calculator input {
+  border: 1px solid rgb(25, 124, 124);
+  margin: 1rem auto;
+  width: 10rem;
+  font-size: 2rem;
+  font-family: "Bebas Neue", cursive;
+}
+
+#calculator button {
+  border: 1px solid rgb(25, 124, 124);
+  background: rgb(125, 177, 177);
+  padding: 1rem;
+  margin: 1rem auto;
+  cursor: pointer;
+}
